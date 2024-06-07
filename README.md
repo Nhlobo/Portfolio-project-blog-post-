@@ -1,7 +1,7 @@
 **How I Built TechConnect: Bridging the Gap between People and Technology**
 
 *Banner Image:*  
-![TechConnect Cover Image](https://imgur.com/3QjBifS)
+![TechConnect Cover Image](https://imgur.com/3QjBifS,)
 
 ## Introduction
 
